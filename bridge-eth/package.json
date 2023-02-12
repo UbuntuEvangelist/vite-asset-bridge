@@ -12,7 +12,7 @@
     "@nomiclabs/hardhat-ethers": "^2.0.2",
     "@vite/vitejs": "^2.3.15",
     "chai": "^4.3.4",
-    "ethereum-waffle": "^3.4.0",
+    "ethereum-waffle": "^4.0.9",
     "ethers": "^5.4.1",
     "hardhat": "^2.4.3",
     "keccak256": "^1.0.3",
